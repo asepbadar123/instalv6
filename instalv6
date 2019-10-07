@@ -9,7 +9,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 ###################################################
-# Channel Asep Badar
+# Channel ASEP BADAR
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
@@ -28,29 +28,29 @@ read enter
 exit
 }
 =================================================
-echo $white"Author : Asep Badar"
-echo $white"Team : ASEP BADAR"
-echo $white"Thanks To :VIP.212"
-echo $white"Thanks To :indonesia meme"
-echo $white"thanks To : CYBER"
-echo $white"thanks To : DARKROW"
-echo $white"thanks To : Blackhat Hacker Indonesia"
+echo $yellow"Author : ASEP BADAR"
+echo $yellow"Team : Asep Badar"
+echo $yellow"Thanks To :VIP.212"
+echo $yellow"Thanks To :indonesia meme"
+echo $yellow"thanks To : CYBER"
+echo $yellow"thanks To : DARKROW"
+echo $yellow"thanks To : Blackhat Hacker Indonesia"
 
 =================================================
-echo  $yellow" 01) Red Hawk"
-echo  $yellow" 02) D-Tect"
-echo  $yellow" 03) Top Up Ilegal ML"
-echo  $yellow" 04) Top Up Ilegal FF"
-echo  $yellow" 05) Webdav"
-echo  $yellow" 06) Metasploit"
-echo  $yellow" 07) Pulsa Gratis"
-echo  $yellow" 08) Ubuntu"
-echo  $yellow" 09) Youtube Dl"
-echo  $yellow" 10) viSQL "
-echo  $yellow" 11) multi-brute-webdav "
-echo  $yellow" 12) Bajinganv6 "
-echo  $yellow" 13) Tools RCT"
-echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
+echo  $green" 01) Red Hawk"
+echo  $green" 02) D-Tect"
+echo  $green" 03) Top Up Ilegal ML"
+echo  $green" 04) Top Up Ilegal FF"
+echo  $green" 05) Webdav"
+echo  $green" 06) Metasploit"
+echo  $green" 07) Pulsa Gratis"
+echo  $green" 08) Ubuntu"
+echo  $green" 09) Youtube Dl"
+echo  $green" 10) viSQL "
+echo  $green" 11) multi-brute-webdav "
+echo  $green" 12) Bajinganv6 "
+echo  $green" 13) Tools RCT"
+echo  $green" 14) cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $white""
 read -p "[ASEP BADAR]> " bro;
